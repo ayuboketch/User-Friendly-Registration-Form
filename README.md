@@ -1,5 +1,4 @@
 ![Screen Shot 2024-01-12 at 18 35 08](https://github.com/ayuboketch/User-Friendly-Registration-Form/assets/17433791/10ab7dd5-947e-4ff5-aadc-a3961c2cf1a2)
-![Screen Shot 2024-01-12 at 18 35 32](https://github.com/ayuboketch/User-Friendly-Registration-Form/assets/17433791/f0fe54a9-c113-49f5-a3ad-51a0078006e0)
 
 # Crafting a User-Friendly Registration Form: A Journey of Insight and Development
 The creation of an effective and user-friendly registration form is a crucial task that demands attention to detail, an understanding of user experience, and the implementation of responsive design principles. This article delves into the thought process and development stages of a registration form, highlighting how insightful decisions and progressive development contribute to a seamless user interaction.
@@ -19,3 +18,5 @@ The form includes interactive elements that enhance the user experience. Progres
 # Responsive Design:
 The CSS styles are crafted with responsiveness in mind. The form's width adjusts based on the screen size, providing an optimal viewing and interaction experience across various devices.
 Crafting a registration form involves a delicate balance of design, functionality, and user experience. This journey showcases how insightful decisions and progressive development contribute to the creation of a user-friendly and aesthetically pleasing registration form. The commitment to creating digital interfaces that prioritize user needs and elevate the overall user experience is evident in the thoughtful design choices and attention to detail.
+
+![Screen Shot 2024-01-12 at 18 23 22](https://github.com/ayuboketch/User-Friendly-Registration-Form/assets/17433791/91491c01-0501-4a90-9b93-e1e37f57b3b9)
